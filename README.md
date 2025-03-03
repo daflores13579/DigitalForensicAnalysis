@@ -79,7 +79,16 @@ Question 10: Even though Elvis had his SAM file on this thumb drive, document wh
 Question 11: Generate a report based on the SAM file.
 <br/>
 
-</p>
+<h2>Main Findings</h2>
+
+- Conducted comprehensive forensic analysis of a disk image using Autopsy, focusing on extracting critical evidence in cases of identity theft, credit card fraud, and counterfeit document production.
+- Performed file system exploration, recovering deleted and carved files from unallocated space to identify evidence of illegal activity, including counterfeit U.S. currency, counterfeit IDs, and stolen credit card information.
+- Tagged and organized evidence by categorizing files related to specific criminal activities, generating detailed forensic reports to support legal investigations.
+- Analyzed Internet Explorer’s registry entries to uncover potential travel plans, browsing history, and evidence of fraudulent activity, including accessing phishing sites and fake IDs.
+- Investigated the NTUSER.DAT and SYSTEM files to retrieve valuable metadata, identifying user behavior, email addresses associated with identity theft, and forensic evidence from device connections.
+- Applied keyword search techniques and the Timeline tool to locate illicit MP3 files, determine printer usage, and recover password data from encrypted email accounts.
+- Generated comprehensive reports based on registry analysis, recent document access, and user activity, contributing to successful evidence presentation.
+- Applied filtering and timeline tools to track file creation, modification, and deletion events, including analyzing allocated and deleted graphics for investigative insights.
 
 <!--
  ```diff
