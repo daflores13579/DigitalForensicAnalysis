@@ -16,7 +16,7 @@ This project consists of using digital forensics tools to analyze a sector by se
 
 - <b>Windows 10</b>
 
-<h2>Program walk-through:</h2>
+<h2>Project Walk-Through:</h2>
 
 <b>Part 1</b>
 <br />
