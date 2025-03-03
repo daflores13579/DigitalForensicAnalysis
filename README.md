@@ -1,7 +1,7 @@
 <h1>Digital Forensics Data Analysis Group Project - Cal Poly Pomona</h1>
 
 <h2>Description</h2>
-Project consists of using digital forensic tools to analyze a hard disk image belonging to someone named Elvis in efforts to locate any evidence that will assist in prosecuting offenses such as: counterfeiting U.S. currency, counterfeiting U.S. passports, theft of credit card information, and any other illegal activity. The project is guided by 15 questions that help target specific pieces of evidence to search for.
+This project consists of using digital forensics tools to analyze a sector by sectore clone of a hard drive in efforts to locate any evidence that will assist in prosecuting offenses against a suspect named Elvis. These offenses include counterfeiting U.S. currency, counterfeiting U.S. passports, theft of credit card information, and other illegal activities. The project is guided by 15 questions that help target specific pieces of evidence to search for.
 <br />
 
 
