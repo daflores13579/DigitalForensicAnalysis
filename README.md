@@ -79,7 +79,7 @@ Question 10: Even though Elvis had his SAM file on this thumb drive, document wh
 Question 11: Generate a report based on the SAM file.
 <br/>
 
-<h2>Main Findings</h2>
+<h2>Findings</h2>
 
 - Conducted comprehensive forensic analysis of a disk image using Autopsy, focusing on extracting critical evidence in cases of identity theft, credit card fraud, and counterfeit document production.
 - Performed file system exploration, recovering deleted and carved files from unallocated space to identify evidence of illegal activity, including counterfeit U.S. currency, counterfeit IDs, and stolen credit card information.
